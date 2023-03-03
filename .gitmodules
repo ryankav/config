@@ -1,9 +1,12 @@
 [submodule "fish"]
-	path = fish
+	path = .config/fish
 	url = git@github.com:ryankav/fish.git
 [submodule "nvim"]
-	path = nvim
+	path = .config/nvim
 	url = git@github.com:ryankav/nvim.git
 [submodule "git"]
-	path = git
+	path = .config/git
 	url = git@github.com:ryankav/git.git
+[submodule "dwm"]
+	path = .config/dwm
+	url = git@github.com:ryankav/dwm.git
