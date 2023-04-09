@@ -10,3 +10,6 @@
 [submodule "dwm"]
 	path = .config/dwm
 	url = git@github.com:ryankav/dwm.git
+[submodule ".local/share/fonts"]
+	path = .local/share/fonts
+	url = git@github.com:ryankav/fonts.git
